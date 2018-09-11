@@ -70,10 +70,10 @@
     		</repository>
 	</repositories>
 		<distributionManagement>
-   			<Repository>
+   			<repository>
       				<id>nexus</id>
       				<url>http://localhost:8081/nexus/content/repositories/mvn</url>
-   			</Repository>
+   			</repository>
 	</distributionManagement>
 
 </project>
