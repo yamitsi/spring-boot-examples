@@ -69,5 +69,11 @@
         		<url>http://127.0.0.1:8081/nexus/</url>
     		</repository>
 	</repositories>
+		<distributionManagement>
+   			<Repository>
+      				<id>nexus</id>
+      				<url>http://localhost:8081/nexus/content/repositories/mvn</url>
+   			</Repository>
+	</distributionManagement>
 
 </project>
