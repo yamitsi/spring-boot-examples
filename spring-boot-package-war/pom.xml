@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.neo</groupId>
-	<artifactId>spring-boot-package-war</artifactId>
+	<artifactId>spring-boot-package-war-jenkins-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
